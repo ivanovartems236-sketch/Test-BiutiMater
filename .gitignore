@@ -1,0 +1,4 @@
+.openai/
+dist/qa-preview.html
+node_modules/
+test-results/
